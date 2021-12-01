@@ -7,4 +7,4 @@ ADLS
 Databricks/Azure Synapse
 Python/Scala
 Experience : 7-10 Years
-Location : Pune,Mumbai,Chennai,Bangalore
+Location : Pune,Mumbai,Chennai
